@@ -55,39 +55,7 @@ Layer	Technology
 
   
 ## Project Structure
-textualio/
-├── backend/
-│ ├── controllers/
-│ │ ├── chatController.js
-│ │ ├── adminController.js
-│ ├── middleware/
-│ │ ├── authMiddleware.js
-│ ├── models/
-│ │ ├── userModel.js
-│ │ ├── pdfModel.js
-│ ├── routes/
-│ │ ├── authRoutes.js
-│ │ ├── pdfRoutes.js
-│ │ ├── chatRoutes.js
-│ │ ├── adminRoutes.js
-│ ├── server.js
-│ ├── .env
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── Navbar.js
-│ │ │ ├── PDFUploader.js
-│ │ │ ├── ChatBox.js
-│ │ │ ├── MyPDFs.js
-│ │ │ ├── Login.js
-│ │ │ ├── Register.js
-│ │ ├── App.js
-│ │ ├── styles/
-│ │ │ ├── App.css
-│ ├── package.json
-│
-└── README.md
+<img width="289" height="740" alt="image" src="https://github.com/user-attachments/assets/95222cd4-ebc0-491b-83ed-c6d21c1855c4" />
 
 
 
