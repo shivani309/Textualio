@@ -5,7 +5,7 @@ It also features user authentication (JWT) and an admin panel for user and conte
 
 ## Project Presentation
 
-[![View Presentation](https://img.shields.io/badge/View_PPT-Canva-blue?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAG2CufMg7U/HQUiDjFQJJAqaUx-DfIhWA/edit?utm_content=DAG2CufMg7U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+[![View Presentation](https://img.shields.io/badge/View_PPT-Canva-blue?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAG2CufMg7U/HQUiDjFQJJAqaUx-DfIhWA/edit?utm_content=DAG2CufMg7U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Features
 * User Features *
