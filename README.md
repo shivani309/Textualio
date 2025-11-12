@@ -57,14 +57,16 @@ Layer	Technology
 ## Project Structure
 <img width="289" height="740" alt="image" src="https://github.com/user-attachments/assets/95222cd4-ebc0-491b-83ed-c6d21c1855c4" />
 
-
-
 🔑 Environment Variables
 
 Create a .env file inside backend/ and add:
 
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-OPENROUTER_API_KEY=your_openrouter_key
-MODEL_NAME=meta-llama/llama-3.1-70b-instruct
+* PORT=5000
+* MONGO_URI=your_mongodb_connection_string
+* JWT_SECRET=your_secret_key
+* OPENROUTER_API_KEY=your_openrouter_key
+* MODEL_NAME=meta-llama/llama-3.1-70b-instruct
+
+## Result
+
+<img width="1360" height="882" alt="Screenshot 2025-11-10 200234" src="https://github.com/user-attachments/assets/2c086399-caeb-458f-abe6-5a8084788c99" />
