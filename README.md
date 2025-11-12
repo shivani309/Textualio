@@ -57,35 +57,35 @@ Layer	Technology
 ## Project Structure
 textualio/
 ├── backend/
-│   ├── controllers/
-│   │   ├── chatController.js
-│   │   ├── adminController.js
-│   ├── middleware/
-│   │   ├── authMiddleware.js
-│   ├── models/
-│   │   ├── userModel.js
-│   │   ├── pdfModel.js
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   ├── pdfRoutes.js
-│   │   ├── chatRoutes.js
-│   │   ├── adminRoutes.js
-│   ├── server.js
-│   ├── .env
+│ ├── controllers/
+│ │ ├── chatController.js
+│ │ ├── adminController.js
+│ ├── middleware/
+│ │ ├── authMiddleware.js
+│ ├── models/
+│ │ ├── userModel.js
+│ │ ├── pdfModel.js
+│ ├── routes/
+│ │ ├── authRoutes.js
+│ │ ├── pdfRoutes.js
+│ │ ├── chatRoutes.js
+│ │ ├── adminRoutes.js
+│ ├── server.js
+│ ├── .env
 │
 ├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Navbar.js
-│   │   │   ├── PDFUploader.js
-│   │   │   ├── ChatBox.js
-│   │   │   ├── MyPDFs.js
-│   │   │   ├── Login.js
-│   │   │   ├── Register.js
-│   │   ├── App.js
-│   │   ├── styles/
-│   │   │   ├── App.css
-│   ├── package.json
+│ ├── src/
+│ │ ├── components/
+│ │ │ ├── Navbar.js
+│ │ │ ├── PDFUploader.js
+│ │ │ ├── ChatBox.js
+│ │ │ ├── MyPDFs.js
+│ │ │ ├── Login.js
+│ │ │ ├── Register.js
+│ │ ├── App.js
+│ │ ├── styles/
+│ │ │ ├── App.css
+│ ├── package.json
 │
 └── README.md
 
